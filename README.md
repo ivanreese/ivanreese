@@ -6,14 +6,14 @@ I research novel programming interfaces and make multimedia art. That's why my f
 
 At the moment, I
 
-- work at [@inkandswitch](https://github.com/inkandswitch) as a researcher
-- co-host the [@futureofcoding](https://github.com/futureofcoding) podcast
+- work as a researcher at [@inkandswitch](https://github.com/inkandswitch)
+- co-host the podcast [@futureofcoding](https://github.com/futureofcoding)
 - record music as [Spiral Ganglion](https://spiralganglion.bandcamp.com)
 - dream of [visual programming](https://github.com/ivanreese/visual-programming-codex/)
 
-My [deeply personal website](https://ivanish.ca) is full of weird things I've done.
+My [deeply personal website](https://ivanish.ca) is chock-full of weird things I've done. It's a deep web.
 
-Finally, I enjoy [making new friends](https://mastodon.social/@spiralganglion) on Mastodon. Come say hi.
+Oh, and I love making new friends on [Mastodon](https://mastodon.social/@spiralganglion) and [Bluesky](https://bsky.app/profile/spiralganglion.com). Come say hi!
 
 Best,
 

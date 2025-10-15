@@ -7,7 +7,7 @@ I research novel programming interfaces and make multimedia art. That's why my f
 At the moment, I
 
 - work as a researcher at [@inkandswitch](https://github.com/inkandswitch)
-- co-host the podcast [@futureofcoding](https://github.com/futureofcoding)
+- admin & podcast for [@feelingofcomputing](https://github.com/feelingofcomputing)
 - record music as [Spiral Ganglion](https://spiralganglion.bandcamp.com)
 - dream of [visual programming](https://github.com/ivanreese/visual-programming-codex/)
 

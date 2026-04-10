@@ -13,8 +13,8 @@ At the moment, I
 
 My [deeply personal website](https://ivanish.ca) is chock-full of weird things I've done. It's a deep web.
 
-Oh, and I love making new friends on [Mastodon](https://mastodon.social/@spiralganglion) and [Bluesky](https://bsky.app/profile/spiralganglion.com). Come say hi!
+Oh, and I love making new friends on [Mastodon](https://mastodon.social/@spiralganglion) and [Bluesky](https://bsky.app/profile/spiralganglion.com). Come say hello.
 
-Love,
+With love,
 
 -I

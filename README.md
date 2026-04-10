@@ -6,7 +6,7 @@ Oh, me? I research novel programming interfaces and make multimedia art.
 
 At the moment, I
 
-- host an experimental computing podcast [Feeling of Computing](https://feelingof.com)
+- host an experimental podcast [Feeling of Computing](https://feelingof.com)
 - work as a researcher at [@inkandswitch](https://github.com/inkandswitch)
 - record music as [Spiral Ganglion](https://spiralganglion.bandcamp.com)
 - dream of [visual programming](https://github.com/ivanreese/visual-programming-codex/)

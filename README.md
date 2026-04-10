@@ -1,13 +1,13 @@
-Hi
+Hi _!!_
 
-I'm Ivan
+Nice to meet you <3
 
-I research novel programming interfaces and make multimedia art. That's why my face is a dithered gory pizza.
+Oh, me? I research novel programming interfaces and make multimedia art.
 
 At the moment, I
 
 - work as a researcher at [@inkandswitch](https://github.com/inkandswitch)
-- admin & podcast for [@feelingofcomputing](https://github.com/feelingofcomputing)
+- host the experimental podcast [Feeling of Computing](https://feelingof.com)
 - record music as [Spiral Ganglion](https://spiralganglion.bandcamp.com)
 - dream of [visual programming](https://github.com/ivanreese/visual-programming-codex/)
 
@@ -15,6 +15,6 @@ My [deeply personal website](https://ivanish.ca) is chock-full of weird things I
 
 Oh, and I love making new friends on [Mastodon](https://mastodon.social/@spiralganglion) and [Bluesky](https://bsky.app/profile/spiralganglion.com). Come say hi!
 
-Best,
+Love,
 
 -I

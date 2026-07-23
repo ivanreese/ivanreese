@@ -11,7 +11,7 @@ At the moment, I
 - record music as [Spiral Ganglion](https://spiralganglion.bandcamp.com)
 - dream of [visual programming](https://github.com/ivanreese/visual-programming-codex/)
 
-My [deeply personal website](https://ivy.boo) is chock-full of weird things I've done. It's a deep web.
+My [deeply personal website](https://ivy.boo) is chock-full of weird things I've done. It's a dark web.
 
 Oh, and I cherish making new friends on [Mastodon](https://mastodon.social/@spiralganglion) and [Bluesky](https://bsky.app/profile/spiralganglion.com). Come say hello.
 
